@@ -12,13 +12,13 @@ plugins {
 }
 
 android {
-    compileSdk = 36
+    compileSdk = 37
     namespace = "org.lineageos.recorder"
 
     defaultConfig {
         applicationId = "org.lineageos.recorder"
         minSdk = 31
-        targetSdk = 36
+        targetSdk = 37
         versionCode = 1
         versionName = "1.1"
     }
